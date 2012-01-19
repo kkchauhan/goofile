@@ -4,7 +4,8 @@
 # 
 
 import string
-import httplib,sys
+import httplib
+import sys
 import re
 import getopt
 
